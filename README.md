@@ -4,7 +4,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Version](https://img.shields.io/badge/version-2.1-blue.svg)]()
 
-> A comprehensive, verified collection of 2,499 binary file signatures, executable formats, network protocols, cryptographic artifacts, malware indicators, and forensic evidence with 4 detailed appendices for security researchers...
+> A comprehensive, verified collection of 2,499 binary file signatures, executable formats, network protocols, cryptographic artifacts, malware indicators, and forensic evidence with 4 detailed appendices for security researchers
 
 ## 📋 Overview
 
