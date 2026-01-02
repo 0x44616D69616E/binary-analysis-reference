@@ -176,7 +176,7 @@ Use with your favorite analysis tools:
 
 ```
 Donahue, D. (2025). Binary Analysis and Reverse Engineering: 
-Comprehensive Technical Reference (Version 2.0) [Data set]. 
+Comprehensive Technical Reference (Version 2.1) [Data set]. 
 Zenodo. https://doi.org/10.5281/zenodo.18123287
 ```
 
@@ -189,7 +189,7 @@ Zenodo. https://doi.org/10.5281/zenodo.18123287
                   Comprehensive Technical Reference},
   year         = 2025,
   publisher    = {Zenodo},
-  version      = {2.0},
+  version      = {2.1},
   doi          = {10.5281/zenodo.18123287},
   url          = {https://doi.org/10.5281/zenodo.18123287}
 }
@@ -199,7 +199,7 @@ Zenodo. https://doi.org/10.5281/zenodo.18123287
 
 ```
 Donahue, D. (2025). Binary analysis and reverse engineering: Comprehensive 
-technical reference (Version 2.0) [Data set]. Zenodo. 
+technical reference (Version 2.1) [Data set]. Zenodo. 
 https://doi.org/10.5281/zenodo.18123287
 ```
 
