@@ -384,7 +384,7 @@ Special recognition to the security research community for continuous knowledge 
 
 ## 🚀 Roadmap
 
-**Planned:**
+**Short-term Goals:**
 - Interactive web version with search and filtering
 - YARA rule generation from signatures
 - API for programmatic access
