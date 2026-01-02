@@ -2,9 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18123287.svg)](https://doi.org/10.5281/zenodo.18123287)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/version-2.1-blue.svg)]()
 
-> A comprehensive, verified collection of 2,499 binary file signatures, executable formats, network protocols, cryptographic artifacts, malware indicators, and forensic evidence for security researchers, reverse engineers, and digital forensics practitioners.
+> A comprehensive, verified collection of 2,499 binary file signatures, executable formats, network protocols, cryptographic artifacts, malware indicators, and forensic evidence with 4 detailed appendices for security researchers...
 
 ## 📋 Overview
 
@@ -20,6 +20,7 @@ This reference provides systematic classification and identification of binary a
 
 - **2,499 Verified Entries** - All signatures cross-verified against official specifications
 - **Comprehensive Coverage** - 60 major categories covering all common (and uncommon) formats
+- **4 Comprehensive Appendices** - Endianness reference, XOR key database, extension mapping, PE analysis checklist
 - **Precise Metadata** - Hexadecimal signatures, byte offsets, ASCII representations
 - **Authoritative References** - Links to RFCs, ISO/IEC standards, NIST publications
 - **Zero Duplication** - Systematic deduplication ensures unique, canonical entries
@@ -290,9 +291,9 @@ Verification: Tested with libpng test suite
   - 50+ malware families
   - 30+ packer signatures
 - **References:** 50+ authoritative specifications (RFCs, ISO/IEC, NIST, IEEE)
-- **Version:** 2.0 Academic Edition (January 2025)
-- **Document Size:** 9,148 lines, 306KB
-- **Last Updated:** January 2, 2025
+- **Version:** 2.1 Academic Edition (January 2025)
+- **Document Size:** 9,474 lines, 312KB
+- **Last Updated:** January 1, 2025
 
 ## 🔗 Related Resources
 
@@ -358,6 +359,15 @@ Special recognition to the security research community for continuous knowledge 
 
 ## 📌 Version History
 
+### Version 2.1 - Academic Edition (January 2025)
+- **Added 4 comprehensive appendices:**
+  - Appendix A: Byte Order (Endianness) - Complete reference with detection methods
+  - Appendix B: Common XOR Keys in Malware - Threat intelligence database
+  - Appendix C: File Extension to Magic Number Mapping - Security-focused verification guide
+  - Appendix D: Suspicious PE Characteristics - Malware triage checklist
+- Fixed broken internal navigation links
+- Enhanced document completeness for publication
+
 ### Version 2.0 - Academic Edition (January 2025)
 - Complete restructuring with scholarly formatting
 - Systematic deduplication (2,499 unique entries from 3,500+ total)
@@ -374,7 +384,7 @@ Special recognition to the security research community for continuous knowledge 
 
 ## 🚀 Roadmap
 
-**Planned for v2.1:**
+**Planned:**
 - Interactive web version with search and filtering
 - YARA rule generation from signatures
 - API for programmatic access
